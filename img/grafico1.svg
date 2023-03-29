@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600">
+    <rect width="805" height="600" x="0" y="0" fill="#EAFFFD" id="backgorund" />
+    <g transform="translate(10,10)" id="viz">
+        <g id="arcs">
+            <path d="M14.229598395821384,290A28.812731784056716,28.812731784056716 0,0,1 71.85506196393482,290" fill="none" stroke="#a1dff7" stroke-width="6.3559322033898304" opacity="0.5" />
+            <path d="M14.229598395821384,290A59.46824421102601,59.46824421102601 0,0,1 133.1660868178734,290" fill="none" stroke="#a1dff7" stroke-width="3.305084745762712" opacity="0.5" />
+            <path d="M14.229598395821384,290A97.91111444027274,97.91111444027274 0,0,1 210.05182727636685,290" fill="none" stroke="#a1dff7" stroke-width="2.7966101694915255" opacity="0.5" />
+            <path d="M14.229598395821384,290A135.6813735472817,135.6813735472817 0,0,1 285.5923454903848,290" fill="none" stroke="#a1dff7" stroke-width="3.305084745762712" opacity="0.5" />
+            <path d="M338.28411448604635,290A133.21452626105577,133.21452626105577 0,0,1 71.85506196393482,290" fill="none" stroke="#a1dff7" stroke-width="0.7627118644067797" opacity="0.5" />
+            <path d="M338.28411448604635,290A64.11614360483975,64.11614360483975 0,0,1 210.05182727636685,290" fill="none" stroke="#a1dff7" stroke-width="2.0338983050847457" opacity="0.5" />
+            <path d="M386.2289958607756,290A157.1869669484204,157.1869669484204 0,0,1 71.85506196393482,290" fill="none" stroke="#a1dff7" stroke-width="1.5254237288135595" opacity="0.5" />
+            <path d="M386.2289958607756,290A23.972440687364667,23.972440687364667 0,0,1 434.17387723550496,290" fill="none" stroke="#a1dff7" stroke-width="0.7627118644067797" opacity="0.5" />
+            <path d="M386.2289958607756,290A88.08858429220439,88.08858429220439 0,0,1 210.05182727636685,290" fill="none" stroke="#a1dff7" stroke-width="7.88135593220339" opacity="0.5" />
+            <path d="M493.24899015992963,290A210.6969640979974,210.6969640979974 0,0,1 71.85506196393482,290" fill="none" stroke="#a1dff7" stroke-width="7.627118644067796" opacity="0.5" />
+            <path d="M493.24899015992963,290A180.0414516710281,180.0414516710281 0,0,1 133.1660868178734,290" fill="none" stroke="#a1dff7" stroke-width="15" opacity="0.5" />
+            <path d="M493.24899015992963,290A29.537556462212336,29.537556462212336 0,0,1 434.17387723550496,290" fill="none" stroke="#a1dff7" stroke-width="0.7627118644067797" opacity="0.5" />
+            <path d="M493.24899015992963,290A141.5985814417814,141.5985814417814 0,0,1 210.05182727636685,290" fill="none" stroke="#a1dff7" stroke-width="17.54237288135593" opacity="0.5" />
+            <path d="M493.24899015992963,290A103.82832233477242,103.82832233477242 0,0,1 285.5923454903848,290" fill="none" stroke="#a1dff7" stroke-width="5.338983050847458" opacity="0.5" />
+            <path d="M561.9890596446724,290A214.41148641339947,214.41148641339947 0,0,1 133.1660868178734,290" fill="none" stroke="#a1dff7" stroke-width="8.389830508474576" opacity="0.5" />
+            <path d="M561.9890596446724,290A175.96861618415275,175.96861618415275 0,0,1 210.05182727636685,290" fill="none" stroke="#a1dff7" stroke-width="10.169491525423728" opacity="0.5" />
+            <path d="M561.9890596446724,290A138.19835707714378,138.19835707714378 0,0,1 285.5923454903848,290" fill="none" stroke="#a1dff7" stroke-width="4.576271186440678" opacity="0.5" />
+            <path d="M612.8821688623423,290A201.4151707929877,201.4151707929877 0,0,1 210.05182727636685,290" fill="none" stroke="#a1dff7" stroke-width="1.0169491525423728" opacity="0.5" />
+            <path d="M663.0235376945061,290A114.42483022950057,114.42483022950057 0,0,1 434.17387723550496,290" fill="none" stroke="#a1dff7" stroke-width="1.271186440677966" opacity="0.5" />
+            <path d="M663.0235376945061,290A226.48585520906963,226.48585520906963 0,0,1 210.05182727636685,290" fill="none" stroke="#a1dff7" stroke-width="11.186440677966102" opacity="0.5" />
+            <path d="M663.0235376945061,290A188.71559610206066,188.71559610206066 0,0,1 285.5923454903848,290" fill="none" stroke="#a1dff7" stroke-width="7.627118644067796" opacity="0.5" />
+            <path d="M663.0235376945061,290A24.862600358613975,24.862600358613975 0,0,1 712.748738411734,290" fill="none" stroke="#a1dff7" stroke-width="0.7627118644067797" opacity="0.5" />
+            <path d="M765.7047360862532,290A277.8264544049432,277.8264544049432 0,0,1 210.05182727636685,290" fill="none" stroke="#a1dff7" stroke-width="30" opacity="0.5" />
+            <path d="M765.7047360862532,290A240.0561952979342,240.0561952979342 0,0,1 285.5923454903848,290" fill="none" stroke="#a1dff7" stroke-width="1.5254237288135595" opacity="0.5" />
+        </g>
+        <g id="nodes" fill="#CF4D6F">
+            <g>
+                <circle cx="14.229598395821384" cy="290" r="14.229598395821384" />
+                <text transform="translate(14.229598395821384,309.22959839582137) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Arya Stark</text>
+            </g>
+            <g>
+                <circle cx="71.85506196393482" cy="290" r="14.425284395445132" />
+                <text transform="translate(71.85506196393482,309.42528439544515) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Cersei Lannister</text>
+            </g>
+            <g>
+                <circle cx="133.1660868178734" cy="290" r="17.915159681646543" />
+                <text transform="translate(133.1660868178734,312.9151596816465) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Jaime Lannister</text>
+            </g>
+            <g>
+                <circle cx="210.05182727636685" cy="290" r="30" />
+                <text transform="translate(210.05182727636685,325) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Tyrion Lannister</text>
+            </g>
+            <g>
+                <circle cx="285.5923454903848" cy="290" r="16.569937437171" />
+                <text transform="translate(285.5923454903848,311.569937437171) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Tywin Lannister</text>
+            </g>
+            <g>
+                <circle cx="338.28411448604635" cy="290" r="7.151250781643679" />
+                <text transform="translate(338.28411448604635,302.1512507816437) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Benjen Stark</text>
+            </g>
+            <g>
+                <circle cx="386.2289958607756" cy="290" r="11.82304981623873" />
+                <text transform="translate(386.2289958607756,306.8230498162387) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Bran Stark</text>
+            </g>
+            <g>
+                <circle cx="434.17387723550496" cy="290" r="7.151250781643679" />
+                <text transform="translate(434.17387723550496,302.1512507816437) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Stafford Lannister</text>
+            </g>
+            <g>
+                <circle cx="493.24899015992963" cy="290" r="22.95328136593407" />
+                <text transform="translate(493.24899015992963,317.95328136593406) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Catelyn Stark</text>
+            </g>
+            <g>
+                <circle cx="561.9890596446724" cy="290" r="16.816207341961707" />
+                <text transform="translate(561.9890596446724,311.81620734196173) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Eddard Stark</text>
+            </g>
+            <g>
+                <circle cx="612.8821688623423" cy="290" r="5.106321098861283" />
+                <text transform="translate(612.8821688623423,300.10632109886126) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Rickon Stark</text>
+            </g>
+            <g>
+                <circle cx="663.0235376945061" cy="290" r="16.06446695645558" />
+                <text transform="translate(663.0235376945061,311.0644669564556) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Robb Stark</text>
+            </g>
+            <g>
+                <circle cx="712.748738411734" cy="290" r="4.690152983925463" />
+                <text transform="translate(712.748738411734,299.6901529839255) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Willem Lannister</text>
+            </g>
+            <g>
+                <circle cx="765.7047360862532" cy="290" r="19.295263913746844" />
+                <text transform="translate(765.7047360862532,314.29526391374685) rotate(-90)" alignment-baseline="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Sansa Stark</text>
+            </g>
+        </g>
+    </g>
+</svg>
